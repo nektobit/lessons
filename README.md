@@ -1,1 +1,2 @@
-# lessons
+# MVP Wordpress Plugin
+
